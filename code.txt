@@ -3,8 +3,6 @@
 
 
 
- // GLUT, include glu.h and gl.h
-
 
 
 
